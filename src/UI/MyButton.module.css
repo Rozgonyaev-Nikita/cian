@@ -1,0 +1,25 @@
+.myBtnBlue{
+    border: 1px solid blue;
+    padding: 4px 11.1719px 4px 12px;
+    background: #0468FF;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+
+}
+.MyBtnWhite{
+    border: 1px solid rgba(4, 104, 255, 0.1);
+    padding: 4px 11.1719px 4px 12px;
+    background: rgba(4, 104, 255, 0.1);
+    border-radius: 4px;
+    color: rgba(4, 104, 255, 1);
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
