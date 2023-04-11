@@ -1,6 +1,6 @@
 import React from 'react'
 import Cianlogo from '../img/svg/Vector.svg'
-import MyButton from '../UI/MyButton';
+import MyButton from '../UI/MyButton/MyButton';
 import {Link} from 'react-router-dom'
 
 export default function navbar() {

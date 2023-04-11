@@ -1,3 +1,6 @@
+@import "filter.scss";
+
+
 html{
   height: 100%;
 }
@@ -12,7 +15,6 @@ body{
   display: flex;
   flex-direction: column;
 }
-
 
 nav{
   border-bottom: 1px solid #E8E9EC;
@@ -47,16 +49,16 @@ header{
 
   color: white;
   font-style: normal;
-font-weight: 700;
-font-size: 38px;
-line-height: 46px;
+
   
   .wrapperHeader{
-    padding: 100px 400px;
+    padding: 100px 300px;
     height: 100%;
     
     h1{
       font-size: 48px;
+      font-weight: 700;
+      margin-bottom: 20px;
     }
   }
 }
@@ -89,4 +91,3 @@ footer{
     display: flex;
     align-items: center;
   }
-  
